@@ -1,0 +1,73 @@
+Aluno: Samuel Roberto de Carvalho Bezerra
+Matrícula: 20221Y6-RC0309
+Codificação usada: ISO-8859-1
+
+//Questão 1
+	Não é difícil de se criar um projeto, mesmo sem vídeo, acho que é fácil de fazer
+
+//Questão 2:
+	O exemplo da figura 2.1 é um exemplo de uma saída de texto na tela da mensagem: Welcome to Java Programming. Dentro dele existem uma classe e dois métodos
+	
+//Questão 3:
+ Código em Welcome1.java. Para rodar bastar usar o atalho ctrl+f11 ou clicar em no ícone Run
+ 
+//Questão 4:
+	código em questao1_0.java
+	
+//Questão 5:
+	código em questao1_0.java
+	
+//Questão 6:
+	código em questao1_0.java
+	
+//Questão 7:
+	Código em Welcome1.java
+	
+//Questão 8:
+	código em Welcome1.java
+	
+//Questão 9:
+	código em questao1_0.java
+	
+//Questão 10:
+	Imprime a soma de dois números
+
+//Questão 11:
+	Imprime uma mensagem na tela pedindo para digitar um número, lê o numero digitado na tela depois do enter,
+	imprime outra mensagem pedindo para digitar outro número, e no fim imprime uma mensagem na tela com a soma	
+	dois dois números digitados. código em: soma.java
+
+//Questão 12:
+	Apareceu a mensagem de erro:
+	Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	Scanner cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	Isso acontece, pois, essa linha tem a função de importar a classe Scanner (a qual não está diretamentamente 
+	integrada no código) para realizar a leitura de dados.
+	
+//Questão 13:
+	O código lê dois números e compara se são iguais, diferentes, maior que, menor que, maior ou igual que, menor 
+	ou igual que.
+
+//Questão 14:
+	codigo em figura_2_15.java
+	
+//Questão 15:
+	aparece uma mensagem de erro
+	Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at moduleinfo/capitulo_2.figura_2_15.main(figura_2_15.java:14)
+	pelo fato de digitar um valor char em uma variável que espera receber inteiros acontece um erro de tipo de dado
+	inválido
+
+//Questão 16
+	codigo em figura_2_15.java
+
+//Questão 17
+	codigo em Exercicios.java
+	
+
+	
