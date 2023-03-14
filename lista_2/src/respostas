@@ -1,0 +1,74 @@
+Aluno: Samuel Roberto de Carvalho Bezerra
+Matrícula: 20221Y6-RC0309
+Codificação: UTF-8
+
+Questão 1:
+
+Classes: classes são a definição de um objeto, como se fosse o molde de um objeto
+
+Construtores: são responsáveis por montar objetos.
+
+Métodos: são funções e operações que os objetos, podem fazer
+
+Objeto: é uma instância da classe que herda todos os seus atributos e métodos.
+
+Questão 2:
+Código em Account.java
+Ele cria Account com uma variável de instância nome, com método de atribuir e ler o valor da variável.
+
+Questão 3:
+Os modificadores presentes são public e private. Eles afetam a visibilidade das classes, variáveis de 
+intância, etc.
+
+Questão 4:
+Código em AccountTest.java
+Serve para executar Account.java, pois diferente dela, possui a main para execução do código.
+
+Questão 5:
+A vantagem de poder validar a entrada de um dado válido e impedir dados inválidos.
+
+Questão 6:
+Testar se uma variável de instância do tipo String está sendo iniciada ou testar métodos get e set.
+
+Questão 7:
+Código em Account.java.
+O Java sabe a diferença entre um método e um construtor porque:
+1: O construtor tem o mesmo nome de uma classe
+2: Um método, diferente do construtor só armazena dados localmente, ou seja, dentro de si.
+
+Questão 8:
+a) Não, não compila
+b) Pois, a classe Account não apresenta um construtor padrão(sem parametro).
+
+Questão 9:
+Código em AccountTest.java
+É criado um objeto com um construtor de parâmetro que recebe uma String e atrubi ela á varíavel de 
+instância nome;
+
+Questão 10:
+Sim, compila
+
+Questão 11:
+Evitando que a variável de instância balanco receba um valor negativo.
+
+Questão 12:
+Enquanto a conta1, que recebi um deposito inicial maior que 0, mostra um valor positivo.A conta2, a qual 
+recebi um valor negativo o java automaticamente atribui o valor 0.0 ao balanco inicial de conta2.
+
+Questão 13:
+Porque, se cometer algum erro nesses trechos de código copiados você terá que consertá-los um por um
+
+Questão 14:
+Código em Dialogo1.java
+
+Questão 15
+Código em TelaNome.java
+
+Questão 16:
+Código em AccountTest.java
+
+Questões 17:
+Código em AccountTest.java
+
+
+
